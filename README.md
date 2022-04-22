@@ -5,7 +5,7 @@ In this project, we will design and implement an online retail database applicat
 ![ER Diagram](./ER-Diagram.jpg)
 
 ## Initialize Database
-You can find sql files under the directory of `db` to initialize the database. You can use docker to run a MySQL server in your local enviornment. You can refer to [Get Docker](https://docs.docker.com/get-docker/) to learn about how to install Docker.
+You can find sql files under the directory of `db` to initialize the database. You can use docker to run a MySQL server in your local environment. You can refer to [Get Docker](https://docs.docker.com/get-docker/) to learn about how to install Docker.
 
 ```
 docker run --name mysql -e MYSQL_ROOT_PASSWORD=yourpassword -d mysql
