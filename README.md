@@ -13,7 +13,7 @@ docker run --name mysql -e MYSQL_ROOT_PASSWORD=yourpassword -d mysql
 
 ## Create a file `config.ini` under the root directory
 ```
-[postgresql]
+[mysql]
 host=
 database=
 user=
