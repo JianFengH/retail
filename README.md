@@ -27,7 +27,7 @@ password=
 pip install -r requirements.txt
 ```
 
-### Test whether the connect with MySQL is ok
+### Test whether the connection to MySQL is ok
 ```
 python connect.py
 ```
