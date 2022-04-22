@@ -2,7 +2,6 @@
 from mysql.connector import MySQLConnection, Error
 from config import config
 
-
 def connect():
     """ Connect to MySQL database """
 
